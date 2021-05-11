@@ -1,4 +1,4 @@
-# CS50-Finance
+# Finance CS50
 **NOTE**: This project was completed as part of Harvard's CS50 on EdX. Requirements for this project can be found [here](https://cs50.harvard.edu/x/2020/tracks/web/finance/).   
 
 **Description:** Website where users can create an account, buy, and sell imaginary stocks.   
